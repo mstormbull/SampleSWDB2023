@@ -1,2 +1,2 @@
-# SampleSWDB2023
-This is some code to share with students of swdb2023
+# DB_Team-Peaceful-Ferocity
+Internal repo to develop Dynamic Brain Summer Workshop project
